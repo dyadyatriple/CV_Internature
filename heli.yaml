@@ -1,0 +1,8 @@
+
+train: /content/helipads  # train images (relative to 'path') 128 images
+val:   /content/__MACOSX/val # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+nc: 1  # number of classes
+names: [ 'helipade' ]  # class names
